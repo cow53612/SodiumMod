@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "sodiummod",
+  "name": "Sodium Mod",
+  "description": "Sodium Mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["cow53612"],
+  "credits": "(c) cow53612",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
