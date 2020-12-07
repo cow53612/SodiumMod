@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sodiummod:sodium_block"
+    }
+  ],
+  "result": {
+    "item": "sodiummod:sodium",
+    "count": 9
+  }
+}
